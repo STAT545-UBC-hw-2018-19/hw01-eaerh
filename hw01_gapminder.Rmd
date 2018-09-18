@@ -1,0 +1,50 @@
+---
+title: "Assigment 1"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Below is the summary of the data set $\textit{gapminder}$, including key data, as well as an overview of the different countries belonging to the different continents using the $\texttt{table()} function.
+```{r echo = FALSE}
+library(gapminder)
+
+summary(gapminder)
+
+table(gapminder$continent)
+```
+
+Some features demonstrated:
+  - Returning the first and last $$ elements of the object using the built in R function $\texttt{head()}$ and $\texttt{tail()}$.
+  - Returning the number of columns and rows of the data set contains using the functions $\texttt{ncol()}$ and $\texttt{nrow()}$.
+  - Returning the strucure of the object, using the function $\texttt{str()}$.
+
+```{r echo=FALSE}
+head(gapminder,10)
+tail(gapminder,10)
+ncol(gapminder)
+nrow(gapminder)
+str(gapminder)
+
+```
+
+
+Below we extract a specified column of the data set(lifeExp) and return the mean and the variance of it, using built in functions. 
+
+```{r echo=FALSE}
+lifeExp = gapminder$lifeExp
+mean(lifeExp)
+var(lifeExp)
+
+```
+
+
+Boxplot of the expected lifespan versus continent.
+
+```{r echo = FALSE}
+plot(lifeExp ~ continent, gapminder)
+```
+
