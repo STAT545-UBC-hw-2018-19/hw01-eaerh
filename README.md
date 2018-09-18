@@ -23,7 +23,7 @@ The markdown file exploring the data set  **gapminder** can be found [here.](hw0
 
 A boxplot of the expected lifespan per continent can be found [here.](hw01_gapminder_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
-I also put the reflection note in the repository, in case Canvas is still unavailable tomorrow. It can be found [here.](reflection-note.txt)
+I also put the reflection note in the repository, in case Canvas is still unavailable tomorrow. It can be found [here.](Reflection-note.txt)
 
 ## Concluding words
 Summing it all up with a meme:
