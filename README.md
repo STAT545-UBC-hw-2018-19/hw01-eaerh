@@ -7,7 +7,7 @@ This is the README file for the first assignment in [STAT 545A.](http://www.stat
 This repository contains the work belonging to the first assignment. 
 
 ## About me
-I am a 27 years old visiting student from Norway, currently studying statistics and computer science at UBC. Loves skiing :skiing:  and being outdoors in general.
+I am a 27 years old visiting student from Norway, currently studying statistics and computer science at UBC. Loves skiing :ski:  and being outdoors in general.
 
 |    **:thumbsup:**    | **:thumbsdown:** |
 |----------------|------------|
