@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is the README file for the first assignment in (STAT 545A.)[www.stat545.com/Classroom]
+This is the README file for the first assignment in (STAT 545A.)[stat545.com/Classroom]
 
 This repository contains the work belonging to the first assignment. The 
 
