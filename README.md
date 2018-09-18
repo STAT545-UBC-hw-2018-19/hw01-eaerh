@@ -19,9 +19,9 @@ I am a 27 years old visiting student from Norway, currently studying statistics 
 
 ## Files
 
-The file which explores the **gapminder** data set can be found [here](
+The markdown file exploring the data set  **gapminder** can be found [here.](hw01_gapminder.Rmd)
 
 ## Concluding words
-
+Summing it all up with a meme:
 ![alt text](https://pics.me.me/matlab-the-language-of-technical-computing-o-tm-r-studio-32056306.png)
 
