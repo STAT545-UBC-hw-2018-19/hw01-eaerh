@@ -12,7 +12,7 @@ I am a 27 years old visiting student from Norway, currently studying statistics 
 |    **:thumbsup:**    | **:thumbsdown:** |
 |----------------|------------|
 | Skiing  | Snowboarding |
-| Python      | Matlab  |
+| Python (& **R**      | Matlab  |
 | :pizza: | :spider:  |
 
 
