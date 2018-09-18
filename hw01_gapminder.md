@@ -24,7 +24,9 @@ Below is the summary of the data set *gapminder*, including key data, as well as
     ##   Africa Americas     Asia   Europe  Oceania 
     ##      624      300      396      360       24
 
-Some features demonstrated: - Returning the first and last 10 elements of the object using the built in R function `head()` and `tail()`.
+Some features demonstrated:
+
+-   Returning the first and last 10 elements of the object using the built in R function `head()` and `tail()`.
 
 -   Returning the number of columns and rows of the data set contains using the functions `ncol()` and `nrow()`.
 
