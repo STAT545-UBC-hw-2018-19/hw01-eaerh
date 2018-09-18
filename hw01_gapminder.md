@@ -1,7 +1,7 @@
 Assigment 1
 ================
 
-Below is the summary of the data set *gapminder*, including key data, as well as an overview of the different countries belonging to the different continents using the $ function.
+Below is the summary of the data set *gapminder*, including key data, as well as an overview of the different countries belonging to the different continents using the `table()` function.
 
     ##         country        continent        year         lifeExp     
     ##  Afghanistan:  12   Africa  :624   Min.   :1952   Min.   :23.60  
@@ -24,7 +24,13 @@ Below is the summary of the data set *gapminder*, including key data, as well as
     ##   Africa Americas     Asia   Europe  Oceania 
     ##      624      300      396      360       24
 
-Some features demonstrated: - Returning the first and last $$ elements of the object using the built in R function `head()` and `tail()`. - Returning the number of columns and rows of the data set contains using the functions `ncol()` and `nrow()`. - Returning the strucure of the object, using the function `str()`.
+Some features demonstrated: - Returning the first and last 10 elements of the object using the built in R function `head()` and `tail()`.
+
+-   Returning the number of columns and rows of the data set contains using the functions `ncol()` and `nrow()`.
+
+-   Returning the strucure of the object, using the function `str()`.
+
+<!-- -->
 
     ## # A tibble: 10 x 6
     ##    country     continent  year lifeExp      pop gdpPercap
@@ -66,7 +72,7 @@ Some features demonstrated: - Returning the first and last $$ elements of the ob
     ##  $ pop      : int  8425333 9240934 10267083 11537966 13079460 14880372 12881816 13867957 16317921 22227415 ...
     ##  $ gdpPercap: num  779 821 853 836 740 ...
 
-Below we extract a specified column of the data set and return the mean and the variance of it, using built in functions.
+Below we extract a specified column of the data set(lifeExp) and return the mean and the variance of it, using built in functions.
 
     ## [1] 59.47444
 

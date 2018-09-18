@@ -18,8 +18,11 @@ table(gapminder$continent)
 ```
 
 Some features demonstrated:
-  - Returning the first and last $$ elements of the object using the built in R function $\texttt{head()}$ and $\texttt{tail()}$.
+
+  - Returning the first and last $10$ elements of the object using the built in R function $\texttt{head()}$ and $\texttt{tail()}$.
+  
   - Returning the number of columns and rows of the data set contains using the functions $\texttt{ncol()}$ and $\texttt{nrow()}$.
+  
   - Returning the strucure of the object, using the function $\texttt{str()}$.
 
 ```{r echo=FALSE}
