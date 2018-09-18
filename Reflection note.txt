@@ -1,0 +1,14 @@
+A short reflection upon Assignment 1 in STAT 545A:
+
+
+
+A nice and short introductory assignment.
+The repository was cloned to a local directory and the REAMDME was edited locally. The changes was then added, committed and pushed to github.com. 
+The same goes for the Markdown document, it worked fine. 
+
+This worked fine as a kind of introduction assignment to working with GitHub as well as editing and coding in R/R markdown. 
+
+
+
+
+The reflection is put in the repository in case I don't get access to Canvas until tomorrow. 
