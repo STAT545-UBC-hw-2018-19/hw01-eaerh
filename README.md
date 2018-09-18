@@ -23,5 +23,6 @@ The markdown file exploring the data set  **gapminder** can be found [here.](hw0
 
 ## Concluding words
 Summing it all up with a meme:
+
 ![alt text](https://pics.me.me/matlab-the-language-of-technical-computing-o-tm-r-studio-32056306.png)
 
