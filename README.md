@@ -19,7 +19,7 @@ I am a 27 years old visiting student from Norway, currently studying statistics 
 
 ## Files
 
-The markdown file exploring the data set  **gapminder** can be found [here.](hw01_gapminder.Rmd)
+The markdown file exploring the data set  **gapminder** can be found [here.](hw01_gapminder.md)
 
 A boxplot of the expected lifespan per continent can be found [here.](hw01_gapminder_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
